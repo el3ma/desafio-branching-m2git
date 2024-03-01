@@ -57,3 +57,16 @@ form {
   box-shadow: none;
   top: 6px; 
 } 
+
+.footer_box{
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+p{
+  font-family: 'Space mono', monospace ;
+  color: #fff;
+
+}
